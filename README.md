@@ -1,2 +1,7 @@
-# demo-odontofamily-carabelli
-Demo web para OdontoFamily Carabelli — diseñada por eterlab.
+# OdontoFamily Carabelli
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
